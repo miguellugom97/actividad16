@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity 16</string>
+    <string name="title_languages">Top 5 Programming Languages</string>
+    <string name="desc_kotlin">It is an open source static programming language that supports functional and object-oriented programming. It provides similar syntax and concepts to other languages, such as C#, Java, and Scala, among many others. It does not pretend to be unique, but instead draws inspiration from decades of language development. It has variants that target the JVM (Kotlin/JVM), JavaScript (Kotlin/JS), and native code (Kotlin/Native).</string>
+    <string name="desc_java">Java is a programming language and computing platform first released in 1995 by Sun Microsystems.Its that easy to sum up the Java website itself what this technology is that has brought so many successes to the company.</string>
+    <string name="desc_go">Go is a relatively new programming language, its official release was at the end of 2009 (although its first stable version was in 2012), so it hasnt been around for even a decade.And what makes the Go language what everyone expects? Beyond the fact that it has been developed by Google, specifically by Ken Thompson, Rob Pike and Robert Griesemer —which is no small thing—,Gos features and performance are what nominate this programming language as the umpteenth natural substitute for C.</string>
+    <string name="desc_python">Python is an interpreted, multi-paradigm and multi-platform programming language used mainly in Big Data, AI (Artificial Intelligence),Data Science, testing frameworks and web development. This makes it a high level general purpose language due to its extensive library, whose collection offers a wide range of facilities.</string>
+    <string name="desc_swift">The Swift programming language is currently used for the digital development of apps for iOS and macOS environments.In other words, it is the ideal language when programming an app that must be compatible with Apple brand devices.</string>
+</resources>

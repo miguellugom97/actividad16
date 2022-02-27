@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.miguellugo.actividad16">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,11 +12,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Actividad16">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".ui.view.DetailLanguageActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ui.view.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.App.Starting">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
